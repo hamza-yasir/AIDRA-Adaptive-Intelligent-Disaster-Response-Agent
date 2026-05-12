@@ -147,8 +147,7 @@ python AIDRAFinal.py
 
 ---
 ## Demo Video
-https://www.linkedin.com/posts/kashf-noor-55b520310_artificialintelligence-disastermanagement-ugcPost-7459284843030474753-6C2s?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE8ZYRcB67Ktcr7NgVl6Qk0V-trStqEnZl8
-
+https://www.linkedin.com/posts/hamza-yasir-b91085311_aidra-simulates-a-real-time-disaster-response-ugcPost-7460023350753566720-e3VK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE82AF0BJil61thiQsGInsSi9tvtEW4cg3c
 ---
 
 ##  Course
